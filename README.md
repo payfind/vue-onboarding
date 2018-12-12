@@ -1,5 +1,8 @@
-# onboarding
+# Vue Onboarding
+```
+This project is designed to help with the onboarding process of vuejs
 
+```
 ## Project setup
 ```
 npm install
